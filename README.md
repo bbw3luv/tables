@@ -1,6 +1,6 @@
 # Introduction
 
-##G6 Component
+## G6 Component
 | bolaji | taiwo | ade | kunle |
 |--------|-------|-----|-------|
 | a      | b     | c   | d     |
